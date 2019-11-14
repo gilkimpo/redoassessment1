@@ -1,0 +1,11 @@
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\obj\Debug\netcoreapp3.0\redo the assessment.csprojAssemblyReference.cache
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\obj\Debug\netcoreapp3.0\redo the assessment.AssemblyInfoInputs.cache
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\obj\Debug\netcoreapp3.0\redo the assessment.AssemblyInfo.cs
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\bin\Debug\netcoreapp3.0\redo the assessment.exe
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\bin\Debug\netcoreapp3.0\redo the assessment.deps.json
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\bin\Debug\netcoreapp3.0\redo the assessment.runtimeconfig.json
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\bin\Debug\netcoreapp3.0\redo the assessment.runtimeconfig.dev.json
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\bin\Debug\netcoreapp3.0\redo the assessment.dll
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\bin\Debug\netcoreapp3.0\redo the assessment.pdb
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\obj\Debug\netcoreapp3.0\redo the assessment.dll
+C:\Users\gilki\source\repos\redo the assessment\redo the assessment\obj\Debug\netcoreapp3.0\redo the assessment.pdb
